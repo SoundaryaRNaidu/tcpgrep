@@ -1,6 +1,6 @@
 # tcpgrep
 we developed a command line tool called "tcpgrep" that can be used to filter the TCP traffic.It can be used to filter traffic based on a variety of criteria, including source and destination IP addresses, ports, and protocols.This command line tool helps the user to get the required information on the TCP packets by using the following options.
-The command is : tcpgrep and the options are 
+The command is tcpgrep and the options are 
 
 o For displaying help option , tcpgrep pcapfilename
 
